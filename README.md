@@ -1,1 +1,1 @@
-# ZomatoApp
+### This is the demonstration of Zomato App which displays a static page consisting : Header ,Dining Options and Collections of top restaurants,Showing Trending places,Exploring Zomato chains across various cities.
